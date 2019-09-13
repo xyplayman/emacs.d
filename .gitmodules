@@ -4,3 +4,6 @@
 [submodule "extensions/exec-path-from-shell"]
 	path = extensions/exec-path-from-shell
 	url = https://github.com/purcell/exec-path-from-shell.git
+[submodule "extensions/swiper"]
+	path = extensions/swiper
+	url = https://github.com/abo-abo/swiper.git
