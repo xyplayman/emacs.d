@@ -1,18 +1,3 @@
 [submodule "extensions/better-defaults"]
 	path = extensions/better-defaults
 	url = https://github.com/technomancy/better-defaults.git
-[submodule "extensions/exec-path-from-shell"]
-	path = extensions/exec-path-from-shell
-	url = https://github.com/purcell/exec-path-from-shell.git
-[submodule "extensions/swiper"]
-	path = extensions/swiper
-	url = https://github.com/abo-abo/swiper.git
-[submodule "extensions/hydra"]
-	path = extensions/hydra
-	url = https://github.com/abo-abo/hydra.git
-[submodule "extensions/magit"]
-	path = extensions/magit
-	url = https://github.com/magit/magit.git
-[submodule "extensions/dash.el"]
-	path = extensions/dash.el
-	url = https://github.com/magnars/dash.el.git
