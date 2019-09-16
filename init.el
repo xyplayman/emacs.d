@@ -6,6 +6,12 @@
 (add-to-list 'load-path (concat my-emacs-dir "extensions/better-defaults/"))
 (require 'better-defaults)
 
+(fset 'yes-or-no-p 'y-or-n-p)
+(global-visual-line-mode)
+(setq inhibit-splash-screen t
+      make-backup-files nil
+      apropos-do-all t)
+
 ;; install packages
 (require 'package)
 (package-initialize)
