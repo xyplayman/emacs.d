@@ -37,6 +37,8 @@
 (when (memq window-system '(mac ns))
   (exec-path-from-shell-initialize))
 
+(which-key-mode)
+
 (ivy-mode 1)
 (setq ivy-use-virtual-buffers t)
 (setq ivy-count-format "(%d/%d) ")
