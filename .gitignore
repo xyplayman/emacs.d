@@ -14,3 +14,5 @@ recentf
 ido.last
 elpa/
 transient/
+
+emacs-custom.el
