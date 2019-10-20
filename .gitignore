@@ -15,4 +15,6 @@ ido.last
 elpa/
 transient/
 
+.cache/
+
 emacs-custom.el

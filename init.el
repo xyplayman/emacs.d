@@ -24,6 +24,7 @@
                       expand-region
                       undo-tree
                       which-key
+                      treemacs
                       web-mode)))
   (dolist (package my-packages)
     (unless (package-installed-p package)
