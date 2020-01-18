@@ -14,7 +14,7 @@ recentf
 ido.last
 elpa/
 transient/
-
+eshell/
 .cache/
 
 emacs-custom.el
